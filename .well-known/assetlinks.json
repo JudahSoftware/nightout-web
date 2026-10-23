@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.judah.nightout",
+      "sha256_cert_fingerprints": [
+        "06:59:E6:B3:A7:08:58:78:11:19:53:E1:2A:1D:63:D5:EB:7B:82:96:F0:E3:76:F3:A2:CF:C4:6A:02:59:B3:84"
+      ]
+    }
+  }
+]
